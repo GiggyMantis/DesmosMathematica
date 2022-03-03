@@ -1,0 +1,14 @@
+C_{os}\left(z\right)=\left(\cos\left(z.x\right)\cosh\left(z.y\right),-\sin\left(z.x\right)\sinh\left(z.y\right)\right)
+S_{in}\left(z\right)=\left(\sin\left(z.x\right)\cosh\left(z.y\right),\cos\left(z.x\right)\sinh\left(z.y\right)\right)
+T_{an}\left(z\right)=\left(\frac{\sin\left(2z.x\right)}{\cos\left(2z.x\right)+\cosh\left(2z.y\right)},\frac{\sin\left(2z.y\right)}{\cos\left(2z.x\right)+\cosh\left(2z.y\right)}\right)
+S_{ec}\left(z\right)=R_{p}\left(C_{os}\left(z\right)\right)
+C_{sc}\left(z\right)=R_{p}\left(S_{in}\left(z\right)\right)
+C_{ot}\left(z\right)=R_{p}\left(T_{an}\left(z\right)\right)
+S_{inh}\left(z\right)=\left(\sinh\left(z.x\right)\cdot\cos\left(z.y\right),\cosh\left(z.x\right)\cdot\sin\left(z.y\right)\right)
+C_{osh}\left(z\right)=\left(\cosh\left(z.x\right)\cdot\cos\left(z.y\right),\sinh\left(z.x\right)\cdot\sin\left(z.y\right)\right)
+T_{anh}\left(z\right)=D_{iv}\left(S_{inh}\left(z\right),C_{osh}\left(z\right)\right)
+S_{ech}\left(z\right)=R_{p}\left(C_{osh}\left(z\right)\right)
+C_{sch}\left(z\right)=R_{p}\left(S_{inh}\left(z\right)\right)
+C_{oth}\left(z\right)=R_{p}\left(T_{anh}\left(z\right)\right)
+d_{egrees}\left(n\right)=\frac{\tau n}{360}
+r_{ads}\left(n\right)=\frac{360n}{\tau}
