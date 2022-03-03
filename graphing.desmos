@@ -1,0 +1,3 @@
+G_{raph}\left(z,n\right)=S_{wap}\left(z\right)+N_{umber}\left(n\right)
+C_{ircle}\left(n,m,z\right)=\left(z.x+m\cos\left(n\right),z.y+m\sin\left(n\right)\right)
+L_{ine}\left(n,m,z\right)=\left(n\cdot m.x\ +\ z.x,n\cdot m.y\ +\ z.y\right)
