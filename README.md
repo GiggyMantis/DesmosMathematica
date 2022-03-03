@@ -1,4 +1,4 @@
-# DesmosMathematica
+# Desmos Mathematica
 A complex number engine in desmos.
 
 # Created By
