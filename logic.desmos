@@ -1,0 +1,7 @@
+I_{sbool}\left(P\right)=\left\{P=0:1,P=1:1,0\right\}
+e_{qlogic}\left(P,Q\right)=\left\{P=Q:1,0\right\}
+N_{ot}\left(P\right)=\left\{I_{sbool}\left(P\right)=1:1-P\right\}
+A_{nd}\left(P,Q\right)=\left\{I_{sbool}\left(P\right)I_{sbool}\left(Q\right)PQ=1:1,0\right\}
+O_{r}\left(P,Q\right)=\left\{P=1:1,Q=1:1,0\right\}
+X_{or}\left(P,Q\right)=\left\{A_{nd}\left(P,Q\right)=1:0,O_{r}\left(P,Q\right)\right\}
+I_{mplies}\left(P,Q\right)=\left\{P=1:\left\{I_{sbool}\left(Q\right)Q=0:0,I_{sbool}\left(P\right)I_{sbool}\left(Q\right)=1:1\right\},I_{sbool}\left(P\right)I_{sbool}\left(Q\right)=1:1\right\}
