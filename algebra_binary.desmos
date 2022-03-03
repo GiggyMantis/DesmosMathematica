@@ -1,0 +1,15 @@
+a_{ddnum}\left(n,m\right)=n+m
+A_{dd}\left(N,M\right)=\left(a_{ddnum}\left(N.x,M.x\right),a_{ddnum}\left(N.y,M.y\right)\right)
+m_{inusnum}\left(n,m\right)=a_{ddnum}\left(n,N_{egnum}\left(m\right)\right)
+M_{inus}\left(N,M\right)=A_{dd}\left(N,C_{oneg}\left(M\right)\right)
+t_{akefrom}\left(M,N\right)=A_{dd}\left(N,C_{oneg}\left(M\right)\right)
+m_{ultnum}\left(n,m\right)=nm
+d_{ivnumint}\left(n,m\right)=\operatorname{floor}\left(\frac{n}{m}\right)
+d_{ivnum}\left(n,m\right)=\frac{n}{m}
+M_{odnum}\left(n,m\right)=m\left(d_{ivnum}\left(n,m\right)-d_{ivnumint}\left(n,m\right)\right)
+M_{ult}\left(N,M\right)=\left(m_{inusnum}\left(\left(m_{ultnum}\left(N.x,M.x\right)\right),\left(m_{ultnum}\left(N.y,M.y\right)\right)\right),a_{ddnum}\left(\left(m_{ultnum}\left(N.x,M.y\right)\right),\left(m_{ultnum}\left(N.y,M.x\right)\right)\right)\right)
+D_{iv}\left(z,s\right)=M_{ult}\left(z,P_{ow}\left(s,N_{umber}\left(-1\right)\right)\right)
+l_{nbranch}\left(z,n\right)=\left(\ln\left(P_{olar}\left(z\right).x\right),a_{ddnum}\left(A_{rg}\left(z\right),\tau n\right)\right)
+L_{n}\left(z\right)=l_{nbranch}\left(z,0\right)
+P_{ow}\left(z,s\right)=E_{xp}\left(M_{ult}\left(L_{n}\left(z\right),s\right)\right)
+d_{oublecross}\left(z,s\right)=M_{inus}\left(z,S_{wap}\left(s\right)\right)
