@@ -12,3 +12,7 @@ C_{sch}\left(z\right)=R_{p}\left(S_{inh}\left(z\right)\right)
 C_{oth}\left(z\right)=R_{p}\left(T_{anh}\left(z\right)\right)
 d_{egrees}\left(n\right)=\frac{\tau n}{360}
 r_{ads}\left(n\right)=\frac{360n}{\tau}
+a_{rctanbranch}\left(z,n\right)=D_{iv}\left(l_{nbranch}\left(D_{iv}\left(M_{inus}\left(i,z\right),A_{dd}\left(i,z\right)\right),n\right),2i\right)
+A_{rctan}\left(z\right)=\left\{R_{e}\left(z\right)\ge-1:D_{iv}\left(L_{n}\left(D_{iv}\left(M_{inus}\left(i,z\right),A_{dd}\left(i,z\right)\right)\right),2i\right),a_{rctanbranch}\left(z,-1\right)\right\}
+a_{rccotbranch}\left(z,n\right)=D_{iv}\left(l_{nbranch}\left(D_{iv}\left(A_{dd}\left(i,z\right),M_{inus}\left(i,z\right)\right),n\right),2i\right)
+A_{rccot}\left(z\right)=\left\{R_{e}\left(z\right)\le1:t_{akefrom}\left(\left(\frac{\pi}{2},0\right),a_{rccotbranch}\left(z,1\right)\right),a_{rccotbranch}\left(z,0\right)-\left(\frac{\pi}{2},0\right)\right\}
