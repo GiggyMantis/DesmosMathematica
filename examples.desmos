@@ -1,3 +1,7 @@
 R_{e}\left(S\left(E_{xp}\left(M_{ult}\left(N_{umberI}\left(1\right),N_{umber}\left(\pi\right)\right)\right)\right)\right)
 \max\left(I_{m}\left(S_{qrt}\left(N_{umber}\left(-1\right)\right)\right)\right)
-R_{e}\left(P_{ow}\left(\left(0,1\right),\left(0,1\right)\right)\right)
+R_{e}\left(R_{ealPow}\left(\left(0,1\right),\left(0,1\right)\right)\right)
+U_{nity}\left(3\right)
+G_{raph}\left(\left(\cos^{2}\left(t\right),0\right),t\right)
+G_{raph}\left(l_{nbranch}\left(N_{umber}\left(t\right),1\right),t\right)
+R_{e}\left(t_{akefrom}\left(N_{umber}\left(\pi\right),M_{ult}\left(R_{ealPow}\left(\left(0,1\right),\left(0,1\right)\right),E_{xp}\left(N_{umber}\left(e\right)\right)\right)\right)\right)
