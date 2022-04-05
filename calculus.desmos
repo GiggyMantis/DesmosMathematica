@@ -1,0 +1,1 @@
+S_{um}\left(\alpha\right)=\left(\sum_{n=1}^{\operatorname{length}\left(\alpha\right)}\alpha\left[n\right].x,\sum_{n=1}^{\operatorname{length}\left(\alpha\right)}\alpha\left[n\right].y\right)
