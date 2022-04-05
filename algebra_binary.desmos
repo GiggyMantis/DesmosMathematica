@@ -11,3 +11,7 @@ M_{odnum}\left(n,m\right)=m\left(d_{ivnum}\left(n,m\right)-d_{ivnumint}\left(n,m
 M_{ult}\left(N,M\right)=\left(m_{inusnum}\left(\left(m_{ultnum}\left(N.x,M.x\right)\right),\left(m_{ultnum}\left(N.y,M.y\right)\right)\right),a_{ddnum}\left(\left(m_{ultnum}\left(N.x,M.y\right)\right),\left(m_{ultnum}\left(N.y,M.x\right)\right)\right)\right)
 D_{iv}\left(z,s\right)=M_{ult}\left(z,R_{ealPow}\left(s,N_{umber}\left(-1\right)\right)\right)
 l_{nbranch}\left(z,n\right)=\left(\ln\left(P_{olar}\left(z\right).x\right),a_{ddnum}\left(A_{rg}\left(z\right),\tau n\right)\right)
+R_{ealPow}\left(z,s\right)=E_{xp}\left(M_{ult}\left(L_{n}\left(z\right),s\right)\right)
+d_{oublecross}\left(z,s\right)=M_{inus}\left(z,S_{wap}\left(s\right)\right)
+N_{thrt}\left(z,n\right)=\left[P_{ow}\left(z,N_{umber}\left(\frac{1}{n}\right),H\right)\operatorname{for}H=\left[1...n\right]\right]
+M_{andlebrot}\left(z,c\right)=s_{quare}\left(z\right)+c
