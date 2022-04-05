@@ -1,3 +1,3 @@
+P_{ow}\left(z,s,n\right)=E_{xp}\left(M_{ult}\left(l_{nbranch}\left(z,n\right),s\right)\right)
 w_{ithin}\left(x,n,m\right)=\left\{n\le x\le m:1,0\right\}
 L_{erp}\left(N,M,n\right)=\left\{p_{ercentwithin}\left(n\right)=1:\left(n\cdot M.x+\left(1-n\right)\cdot N.x,n\cdot M.y+\left(1-n\right)\cdot N.y\right)\right\}
-R_{otate}\left(z,n\right)=M_{ult}\left(z,E_{xp}\left(N_{umberI}\left(n\right)\right)\right)
